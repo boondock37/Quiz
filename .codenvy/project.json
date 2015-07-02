@@ -1,0 +1,1 @@
+{"mixinTypes":[],"runners":{"configs":{},"default":"project:/ENV1-Quiz"},"builders":{"configs":{},"default":"ant"},"type":"ant","attributes":{"languageVersion":["1.6"],"language":["java"]}}
